@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Aejaz Baig</h1>
-<h3 align="center">Currently learning to turn coffee into code</h3>
+<h3 align="center">I'm currently learning how to turn coffee into code</h3>
 
 <p align="left">
 </p>
