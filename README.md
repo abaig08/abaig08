@@ -1,6 +1,5 @@
 <h1 align="center">Hi 😁, I'm Abdullah Aejaz Baig</h1>
 <h3 align="center">Currently learning how to turn coffee into code</h3>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
