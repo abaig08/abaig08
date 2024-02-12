@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="54" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="54" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" height="54" alt="aws logo"  />
 </div>
 
 ###
