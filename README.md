@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdullah Aejaz Baig</h1>
+![image](https://github.com/abaig08/abaig08/assets/88853346/6740c9eb-b3ee-48da-aac0-901b23d2bdad)![image](https://github.com/abaig08/abaig08/assets/88853346/55cc4b1b-347c-467b-801a-955a264666b0)<h1 align="center">Hi there! <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdullah Aejaz Baig</h1>
 <h2 align="center">Currently learning how to turn coffee into code</h2>
 
 
