@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdullah Aejaz Baig</h1>
 <h2 align="center">Currently learning how to turn coffee into code</h2>
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="54" alt="html5 logo"  />
   <img width="12" />
@@ -24,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" height="54" alt="aws logo"  />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 ###
 
 <div align="center">
