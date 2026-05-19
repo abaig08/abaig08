@@ -79,36 +79,6 @@ I operate at the intersection of **business strategy**, **technical execution**,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abaig08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&icon_color=AFA9EC&text_color=EEEDFE&border_radius=12" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaig08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&text_color=EEEDFE&border_radius=12" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaig08&theme=tokyonight&hide_border=true&background=0D0B1E&ring=7F77DD&fire=AFA9EC&currStreakLabel=EEEDFE&border_radius=12" />
-</div>
-
----
-
-## 🏆 Certifications & Achievements
-
-```
- ✦  IIBA – CBAP / CCBA (Business Analysis)
- ✦  PMI – PMP / CAPM (Project Management)
- ✦  ISTQB – Foundation Level (Software Testing)
- ✦  Certified Scrum Master (CSM)
- ✦  Agile Certified Practitioner (PMI-ACP)
-```
-
-> 📌 *Update this section with your actual certifications*
-
----
-
 ## 📈 My Approach
 
 ```mermaid
@@ -130,20 +100,6 @@ graph LR
     style G fill:#7F77DD,color:#EEEDFE
     style H fill:#AFA9EC,color:#26215C
 ```
-
----
-
-## 💡 Featured Projects
-
-<!-- PROJECT CARD TEMPLATE — duplicate and fill in as needed -->
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=abdullahaejazbaig&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&icon_color=AFA9EC&text_color=EEEDFE&border_radius=12)](https://github.com/abdullahaejazbaig/your-repo-name)
-
-</div>
-
-> 📌 *Replace `your-repo-name` with your actual repository names*
 
 ---
 
