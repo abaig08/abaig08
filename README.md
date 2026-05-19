@@ -51,22 +51,13 @@ I operate at the intersection of **business strategy**, **technical execution**,
 ## 🛠️ Tools & Technologies
 
 <!-- BA Tools -->
-**Business Analysis**
+**Business Analysis & Project Management**
 
 ![Confluence](https://img.shields.io/badge/Confluence-534AB7?style=for-the-badge&logo=confluence&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-3C3489?style=for-the-badge&logo=jira&logoColor=white)
 ![MS Visio](https://img.shields.io/badge/MS%20Visio-7F77DD?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-AFA9EC?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-26215C?style=for-the-badge&logo=notion&logoColor=white)
-
-<!-- PM Tools -->
-**Project Management**
-
-![Trello](https://img.shields.io/badge/Trello-534AB7?style=for-the-badge&logo=trello&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-7F77DD?style=for-the-badge&logo=asana&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/MS%20Project-3C3489?style=for-the-badge&logo=microsoft&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-26215C?style=for-the-badge&logo=slack&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-AFA9EC?style=for-the-badge&logo=monday&logoColor=white)
 
 <!-- QA Tools -->
 **Quality Assurance**
