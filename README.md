@@ -83,14 +83,14 @@ I operate at the intersection of **business strategy**, **technical execution**,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahaejazbaig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&icon_color=AFA9EC&text_color=EEEDFE&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abaig08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&icon_color=AFA9EC&text_color=EEEDFE&border_radius=12" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahaejazbaig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&text_color=EEEDFE&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaig08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0B1E&title_color=7F77DD&text_color=EEEDFE&border_radius=12" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaejazbaig&theme=tokyonight&hide_border=true&background=0D0B1E&ring=7F77DD&fire=AFA9EC&currStreakLabel=EEEDFE&border_radius=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaig08&theme=tokyonight&hide_border=true&background=0D0B1E&ring=7F77DD&fire=AFA9EC&currStreakLabel=EEEDFE&border_radius=12" />
 </div>
 
 ---
