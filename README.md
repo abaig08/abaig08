@@ -73,8 +73,6 @@ I operate at the intersection of **business strategy**, **technical execution**,
 
 ![Postman](https://img.shields.io/badge/Postman-534AB7?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-3C3489?style=for-the-badge&logo=selenium&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-7F77DD?style=for-the-badge&logo=testrail&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-26215C?style=for-the-badge&logo=browserstack&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-AFA9EC?style=for-the-badge&logo=cypress&logoColor=white)
 
 ---
